@@ -1,0 +1,10 @@
+{
+    "type": "mongodb",
+    "host": "localhost",
+    "port": 27017,
+    "database": "db_demo",
+    "useUnifiedTopology": true,
+    "entities": ["dist/**/*.entity.js"],
+    "synchronize": true
+  }
+  
